@@ -1,4 +1,4 @@
-[![MasterHead](https://www.analyticsvidhya.com/wp-content/uploads/2021/07/data-analytics.jpg)](https://www.analyticsvidhya.com/wp-content/uploads/2021/07/data-analytics.jpg)
+[![MasterHead](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)](https://github.com/your-username)  
 <h1 align="center">Hi 👋, I'm Anteneh Alem (beba)</h1> <h3 align="center">A Data and Financial Analyst passionate about turning data into actionable insights</h3> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=beba2123&label=Profile%20views&color=0e75b6&style=flat" alt="beba2123" /> </p>
 🔭 I’m currently working on Financial and Business Data Analytics Projects
 🌱 I’m currently learning Advanced SQL, Power BI, and Financial Modeling
